@@ -1,0 +1,5 @@
+@import "../styles.css";
+
+body {
+  font-family: var(--font-outfit), Arial, sans-serif;
+}
